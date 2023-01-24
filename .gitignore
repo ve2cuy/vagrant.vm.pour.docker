@@ -1,0 +1,10 @@
+.vagrant/machines/ubuntuvm1/virtualbox/action_provision
+.vagrant/machines/ubuntuvm1/virtualbox/action_set_name
+.vagrant/machines/ubuntuvm1/virtualbox/box_meta
+.vagrant/machines/ubuntuvm1/virtualbox/creator_uid
+.vagrant/machines/ubuntuvm1/virtualbox/id
+.vagrant/machines/ubuntuvm1/virtualbox/index_uuid
+.vagrant/machines/ubuntuvm1/virtualbox/private_key
+.vagrant/machines/ubuntuvm1/virtualbox/synced_folders
+.vagrant/machines/ubuntuvm1/virtualbox/vagrant_cwd
+.vagrant/rgloader/loader.rb
